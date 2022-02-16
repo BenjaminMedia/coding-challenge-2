@@ -7,8 +7,6 @@ There are specified tasks below, which needs to be solved to complete this codin
 2. Create a github public repository and push your solution to the repository master branch.
 3. Send the repository URL to us. 
 
-The estimated time spent on this challenge is around 5 hours.
-
 ## Project description
 Bob is a freelancer that wants to keep track of how much time he spends working on different projects.
 At any given time he is working on different projects, giving each of them a unique name.
